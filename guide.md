@@ -22,7 +22,9 @@
 
 登录镜像仓库，通过域名访问服务：
 
-![image](/images/uhub_login_01.png)
+```
+docker login uhub.service.ucloud.cn -u user@ucloud.cn
+```
 
 登录用户名为UCloud平台注册的邮箱，密码为控制台密码。
 
