@@ -16,7 +16,7 @@
 
 在创建镜像仓库后，即可从docker client端镜像push镜像来创建镜像。
 
-当前每个项目支持最多 5 个镜像仓库，如您需要多于 5 个镜像仓库，可在上传镜像时利用多级目录进行命名，如：
+当前每个项目支持**最多 5 个镜像仓库**，如您需要多于 5 个镜像仓库，可在上传镜像时利用**多级目录**进行命名，如：
 
 ```
 docker tag nginx:latest uhub.service.ucloud.cn/ucloud_test/xyz/123/nginx:latest
