@@ -58,7 +58,7 @@ pull镜像
 ## 跨地域使用体验
 
 UCloud公共镜像库为跨地域架构，在一个地域节点push的镜像，在其他地域的节点都可以通过内网镜像pull；
-如在北京二可用区C，push镜像：
+如在华北（北京）可用区C，push镜像：
 
 ![image](/images/uhub_region_01.png)
 
