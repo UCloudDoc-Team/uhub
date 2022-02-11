@@ -35,6 +35,7 @@ docker login uhub.service.ucloud.cn -u user@ucloud.cn
 2. 修改独立密码将适用于所有镜像仓库，支持在 UCloud 内网和外网登录使用。
 
 3. 独立密码与**登录用户名**进行绑定，而不是与镜像仓库进行绑定。
+
 ## 3. 推送和拉取镜像
 
 ### 3.1 推送镜像
